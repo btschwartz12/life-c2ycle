@@ -1,0 +1,705 @@
+{
+  "ioc_ip": "176.65.144.32",
+  "ioc_timestamp": "2025-04-14T20:02:05Z",
+  "days_before": 7,
+  "days_after": 7,
+  "as_analysis": {
+    "ioc_data": {
+      "asn": 215240,
+      "description": "NETRESEARCH",
+      "bgp_prefix": "176.65.144.0/24",
+      "name": "NETRESEARCH",
+      "country_code": "GB",
+      "updated_at": "2025-04-11T07:40:43.761673918Z"
+    },
+    "observed_asn": {
+      "2025-04-07T20:02:05Z": 215240,
+      "2025-04-08T20:02:05Z": 215240,
+      "2025-04-09T20:02:05Z": 215240,
+      "2025-04-10T20:02:05Z": 215240,
+      "2025-04-11T20:02:05Z": 215240,
+      "2025-04-12T20:02:05Z": 215240,
+      "2025-04-13T20:02:05Z": 215240,
+      "2025-04-14T20:02:05Z": 215240,
+      "2025-04-15T20:02:05Z": 215240,
+      "2025-04-16T20:02:05Z": 215240,
+      "2025-04-17T20:02:05Z": 215240,
+      "2025-04-18T20:02:05Z": 215240,
+      "2025-04-19T20:02:05Z": 215240,
+      "2025-04-20T20:02:05Z": 215240,
+      "2025-04-21T20:02:05Z": 215240
+    },
+    "observed_description": {
+      "2025-04-07T20:02:05Z": "NETRESEARCH",
+      "2025-04-08T20:02:05Z": "NETRESEARCH",
+      "2025-04-09T20:02:05Z": "NETRESEARCH",
+      "2025-04-10T20:02:05Z": "NETRESEARCH",
+      "2025-04-11T20:02:05Z": "NETRESEARCH",
+      "2025-04-12T20:02:05Z": "NETRESEARCH",
+      "2025-04-13T20:02:05Z": "NETRESEARCH",
+      "2025-04-14T20:02:05Z": "NETRESEARCH",
+      "2025-04-15T20:02:05Z": "NETRESEARCH",
+      "2025-04-16T20:02:05Z": "NETRESEARCH",
+      "2025-04-17T20:02:05Z": "NETRESEARCH",
+      "2025-04-18T20:02:05Z": "NETRESEARCH",
+      "2025-04-19T20:02:05Z": "NETRESEARCH",
+      "2025-04-20T20:02:05Z": "NETRESEARCH",
+      "2025-04-21T20:02:05Z": "NETRESEARCH"
+    },
+    "observed_bgp_prefix": {
+      "2025-04-07T20:02:05Z": "176.65.144.0/24",
+      "2025-04-08T20:02:05Z": "176.65.144.0/24",
+      "2025-04-09T20:02:05Z": "176.65.144.0/24",
+      "2025-04-10T20:02:05Z": "176.65.144.0/24",
+      "2025-04-11T20:02:05Z": "176.65.144.0/24",
+      "2025-04-12T20:02:05Z": "176.65.144.0/24",
+      "2025-04-13T20:02:05Z": "176.65.144.0/24",
+      "2025-04-14T20:02:05Z": "176.65.144.0/24",
+      "2025-04-15T20:02:05Z": "176.65.144.0/24",
+      "2025-04-16T20:02:05Z": "176.65.144.0/24",
+      "2025-04-17T20:02:05Z": "176.65.144.0/24",
+      "2025-04-18T20:02:05Z": "176.65.144.0/24",
+      "2025-04-19T20:02:05Z": "176.65.144.0/24",
+      "2025-04-20T20:02:05Z": "176.65.144.0/24",
+      "2025-04-21T20:02:05Z": "176.65.144.0/24"
+    },
+    "observed_name": {
+      "2025-04-07T20:02:05Z": "NETRESEARCH",
+      "2025-04-08T20:02:05Z": "NETRESEARCH",
+      "2025-04-09T20:02:05Z": "NETRESEARCH",
+      "2025-04-10T20:02:05Z": "NETRESEARCH",
+      "2025-04-11T20:02:05Z": "NETRESEARCH",
+      "2025-04-12T20:02:05Z": "NETRESEARCH",
+      "2025-04-13T20:02:05Z": "NETRESEARCH",
+      "2025-04-14T20:02:05Z": "NETRESEARCH",
+      "2025-04-15T20:02:05Z": "NETRESEARCH",
+      "2025-04-16T20:02:05Z": "NETRESEARCH",
+      "2025-04-17T20:02:05Z": "NETRESEARCH",
+      "2025-04-18T20:02:05Z": "NETRESEARCH",
+      "2025-04-19T20:02:05Z": "NETRESEARCH",
+      "2025-04-20T20:02:05Z": "NETRESEARCH",
+      "2025-04-21T20:02:05Z": "NETRESEARCH"
+    },
+    "observed_country_code": {
+      "2025-04-07T20:02:05Z": "GB",
+      "2025-04-08T20:02:05Z": "GB",
+      "2025-04-09T20:02:05Z": "GB",
+      "2025-04-10T20:02:05Z": "GB",
+      "2025-04-11T20:02:05Z": "GB",
+      "2025-04-12T20:02:05Z": "GB",
+      "2025-04-13T20:02:05Z": "GB",
+      "2025-04-14T20:02:05Z": "GB",
+      "2025-04-15T20:02:05Z": "GB",
+      "2025-04-16T20:02:05Z": "GB",
+      "2025-04-17T20:02:05Z": "GB",
+      "2025-04-18T20:02:05Z": "GB",
+      "2025-04-19T20:02:05Z": "GB",
+      "2025-04-20T20:02:05Z": "GB",
+      "2025-04-21T20:02:05Z": "GB"
+    },
+    "observed_updated_at": {
+      "2025-04-07T20:02:05Z": "2025-03-27T06:54:18.070287030Z",
+      "2025-04-08T20:02:05Z": "2025-03-27T06:54:18.070287030Z",
+      "2025-04-09T20:02:05Z": "2025-03-27T06:54:18.070287030Z",
+      "2025-04-10T20:02:05Z": "2025-03-27T06:54:18.070287030Z",
+      "2025-04-11T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-12T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-13T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-14T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-15T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-16T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-17T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-18T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-19T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-20T20:02:05Z": "2025-04-11T07:40:43.761673918Z",
+      "2025-04-21T20:02:05Z": "2025-04-11T07:40:43.761673918Z"
+    }
+  },
+  "os_analysis": {
+    "ioc_data": {
+      "vendor": "",
+      "product": ""
+    },
+    "observed_vendor": {
+      "2025-04-07T20:02:05Z": "",
+      "2025-04-08T20:02:05Z": "",
+      "2025-04-09T20:02:05Z": "",
+      "2025-04-10T20:02:05Z": "",
+      "2025-04-11T20:02:05Z": "",
+      "2025-04-12T20:02:05Z": "",
+      "2025-04-13T20:02:05Z": "",
+      "2025-04-14T20:02:05Z": "",
+      "2025-04-15T20:02:05Z": "",
+      "2025-04-16T20:02:05Z": "",
+      "2025-04-17T20:02:05Z": "",
+      "2025-04-18T20:02:05Z": "",
+      "2025-04-19T20:02:05Z": "",
+      "2025-04-20T20:02:05Z": "",
+      "2025-04-21T20:02:05Z": ""
+    },
+    "observed_product": {
+      "2025-04-07T20:02:05Z": "",
+      "2025-04-08T20:02:05Z": "",
+      "2025-04-09T20:02:05Z": "",
+      "2025-04-10T20:02:05Z": "",
+      "2025-04-11T20:02:05Z": "",
+      "2025-04-12T20:02:05Z": "",
+      "2025-04-13T20:02:05Z": "",
+      "2025-04-14T20:02:05Z": "",
+      "2025-04-15T20:02:05Z": "",
+      "2025-04-16T20:02:05Z": "",
+      "2025-04-17T20:02:05Z": "",
+      "2025-04-18T20:02:05Z": "",
+      "2025-04-19T20:02:05Z": "",
+      "2025-04-20T20:02:05Z": "",
+      "2025-04-21T20:02:05Z": ""
+    }
+  },
+  "ssh_analysis": {
+    "ioc_data": [],
+    "observed_banners": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_banners_hashes": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_labels": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_version": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_comment": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_host_key_algorithm": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    },
+    "observed_server_host_key_fingerprint": {
+      "2025-04-07T20:02:05Z": {},
+      "2025-04-08T20:02:05Z": {},
+      "2025-04-09T20:02:05Z": {},
+      "2025-04-10T20:02:05Z": {},
+      "2025-04-11T20:02:05Z": {},
+      "2025-04-12T20:02:05Z": {},
+      "2025-04-13T20:02:05Z": {},
+      "2025-04-14T20:02:05Z": {},
+      "2025-04-15T20:02:05Z": {},
+      "2025-04-16T20:02:05Z": {},
+      "2025-04-17T20:02:05Z": {},
+      "2025-04-18T20:02:05Z": {},
+      "2025-04-19T20:02:05Z": {},
+      "2025-04-20T20:02:05Z": {},
+      "2025-04-21T20:02:05Z": {}
+    }
+  },
+  "rdp_analysis": {
+    "ioc_data": [
+      {
+        "labels": [
+          "network-administration",
+          "remote-access"
+        ],
+        "port": 3389,
+        "certificate": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      }
+    ],
+    "observed_labels": {
+      "2025-04-07T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-08T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-09T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-10T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-11T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-12T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-13T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-14T20:02:05Z": {
+        "3389": [
+          "network-administration",
+          "remote-access"
+        ]
+      },
+      "2025-04-15T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-16T20:02:05Z": {
+        "3389": [
+          "network-administration",
+          "remote-access"
+        ]
+      },
+      "2025-04-17T20:02:05Z": {
+        "3389": [
+          "network-administration",
+          "remote-access"
+        ]
+      },
+      "2025-04-18T20:02:05Z": {
+        "3389": [
+          "network-administration",
+          "remote-access"
+        ]
+      },
+      "2025-04-19T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-20T20:02:05Z": {
+        "3389": [
+          "remote-access",
+          "network-administration"
+        ]
+      },
+      "2025-04-21T20:02:05Z": {
+        "3389": [
+          "network-administration",
+          "remote-access"
+        ]
+      }
+    },
+    "observed_certificate": {
+      "2025-04-07T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-08T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-09T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-10T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-11T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-12T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-13T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-14T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-15T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-16T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-17T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-18T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-19T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-20T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      },
+      "2025-04-21T20:02:05Z": {
+        "3389": "ad544eb3957c0c02ab63fab40cd8278c358002b971e637bd58aa3a77c7ed3e08"
+      }
+    }
+  },
+  "location_analysis": {
+    "ioc_data": {
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    "observed_country": {
+      "2025-04-07T20:02:05Z": "United Kingdom",
+      "2025-04-08T20:02:05Z": "United Kingdom",
+      "2025-04-09T20:02:05Z": "United Kingdom",
+      "2025-04-10T20:02:05Z": "United Kingdom",
+      "2025-04-11T20:02:05Z": "United Kingdom",
+      "2025-04-12T20:02:05Z": "United Kingdom",
+      "2025-04-13T20:02:05Z": "United Kingdom",
+      "2025-04-14T20:02:05Z": "United Kingdom",
+      "2025-04-15T20:02:05Z": "United Kingdom",
+      "2025-04-16T20:02:05Z": "United Kingdom",
+      "2025-04-17T20:02:05Z": "United Kingdom",
+      "2025-04-18T20:02:05Z": "United Kingdom",
+      "2025-04-19T20:02:05Z": "United Kingdom",
+      "2025-04-20T20:02:05Z": "United Kingdom",
+      "2025-04-21T20:02:05Z": "United Kingdom"
+    },
+    "observed_country_code": {
+      "2025-04-07T20:02:05Z": "GB",
+      "2025-04-08T20:02:05Z": "GB",
+      "2025-04-09T20:02:05Z": "GB",
+      "2025-04-10T20:02:05Z": "GB",
+      "2025-04-11T20:02:05Z": "GB",
+      "2025-04-12T20:02:05Z": "GB",
+      "2025-04-13T20:02:05Z": "GB",
+      "2025-04-14T20:02:05Z": "GB",
+      "2025-04-15T20:02:05Z": "GB",
+      "2025-04-16T20:02:05Z": "GB",
+      "2025-04-17T20:02:05Z": "GB",
+      "2025-04-18T20:02:05Z": "GB",
+      "2025-04-19T20:02:05Z": "GB",
+      "2025-04-20T20:02:05Z": "GB",
+      "2025-04-21T20:02:05Z": "GB"
+    }
+  },
+  "dns_analysis": {
+    "ioc_data": {
+      "names": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ]
+    },
+    "observed_names": {
+      "2025-04-07T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-08T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-09T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-10T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-11T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-12T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-13T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-14T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-15T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-16T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-17T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-18T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-19T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-20T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ],
+      "2025-04-21T20:02:05Z": [
+        "josemonila.ddnsfree.com",
+        "thissubdomainshouldonlyresolveifwildcard.josemonila.ddnsfree.com",
+        "strongandliving.ddnsfree.com",
+        "loveisthegreatest.ddnsfree.com",
+        "greatestisthelord.ddnsfree.com",
+        "greatgodxxx101.ddnsfree.com"
+      ]
+    }
+  },
+  "labels_analysis": {
+    "ioc_data": [
+      "remote-access",
+      "c2",
+      "network-administration",
+      "file-sharing"
+    ],
+    "observed_labels": {
+      "2025-04-07T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-08T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-09T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-10T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-11T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-12T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-13T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-14T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-15T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-16T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-17T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-18T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-19T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-20T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ],
+      "2025-04-21T20:02:05Z": [
+        "c2",
+        "file-sharing",
+        "network-administration",
+        "remote-access"
+      ]
+    }
+  }
+}

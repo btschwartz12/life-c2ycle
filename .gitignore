@@ -1,0 +1,5 @@
+env
+.env
+__pycache__
+censys_cache/*
+!censys_cache/.gitkeep

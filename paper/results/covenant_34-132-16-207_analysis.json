@@ -1,0 +1,860 @@
+{
+  "ioc_ip": "34.132.16.207",
+  "ioc_timestamp": "2025-01-01T08:02:48Z",
+  "days_before": 7,
+  "days_after": 7,
+  "as_analysis": {
+    "ioc_data": {
+      "asn": 396982,
+      "description": "GOOGLE-CLOUD-PLATFORM",
+      "bgp_prefix": "34.132.16.0/20",
+      "name": "GOOGLE-CLOUD-PLATFORM",
+      "country_code": "US",
+      "updated_at": "2024-12-17T23:59:04.617292269Z"
+    },
+    "observed_asn": {
+      "2024-12-25T08:02:48Z": 396982,
+      "2024-12-26T08:02:48Z": 396982,
+      "2024-12-27T08:02:48Z": 396982,
+      "2024-12-28T08:02:48Z": 396982,
+      "2024-12-29T08:02:48Z": 396982,
+      "2024-12-30T08:02:48Z": 396982,
+      "2024-12-31T08:02:48Z": 396982,
+      "2025-01-01T08:02:48Z": 396982,
+      "2025-01-02T08:02:48Z": 396982,
+      "2025-01-03T08:02:48Z": 396982,
+      "2025-01-04T08:02:48Z": 396982,
+      "2025-01-05T08:02:48Z": 396982,
+      "2025-01-06T08:02:48Z": 396982,
+      "2025-01-07T08:02:48Z": 396982,
+      "2025-01-08T08:02:48Z": 396982
+    },
+    "observed_description": {
+      "2024-12-25T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-26T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-27T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-28T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-29T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-30T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-31T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-01T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-02T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-03T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-04T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-05T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-06T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-07T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-08T08:02:48Z": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "observed_bgp_prefix": {
+      "2024-12-25T08:02:48Z": "34.132.16.0/20",
+      "2024-12-26T08:02:48Z": "34.132.16.0/20",
+      "2024-12-27T08:02:48Z": "34.132.16.0/20",
+      "2024-12-28T08:02:48Z": "34.132.16.0/20",
+      "2024-12-29T08:02:48Z": "34.132.16.0/20",
+      "2024-12-30T08:02:48Z": "34.132.16.0/20",
+      "2024-12-31T08:02:48Z": "34.132.16.0/20",
+      "2025-01-01T08:02:48Z": "34.132.16.0/20",
+      "2025-01-02T08:02:48Z": "34.132.16.0/20",
+      "2025-01-03T08:02:48Z": "34.132.16.0/20",
+      "2025-01-04T08:02:48Z": "34.132.16.0/20",
+      "2025-01-05T08:02:48Z": "34.132.16.0/20",
+      "2025-01-06T08:02:48Z": "34.132.16.0/20",
+      "2025-01-07T08:02:48Z": "34.132.16.0/20",
+      "2025-01-08T08:02:48Z": "34.132.16.0/20"
+    },
+    "observed_name": {
+      "2024-12-25T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-26T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-27T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-28T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-29T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-30T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2024-12-31T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-01T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-02T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-03T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-04T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-05T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-06T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-07T08:02:48Z": "GOOGLE-CLOUD-PLATFORM",
+      "2025-01-08T08:02:48Z": "GOOGLE-CLOUD-PLATFORM"
+    },
+    "observed_country_code": {
+      "2024-12-25T08:02:48Z": "US",
+      "2024-12-26T08:02:48Z": "US",
+      "2024-12-27T08:02:48Z": "US",
+      "2024-12-28T08:02:48Z": "US",
+      "2024-12-29T08:02:48Z": "US",
+      "2024-12-30T08:02:48Z": "US",
+      "2024-12-31T08:02:48Z": "US",
+      "2025-01-01T08:02:48Z": "US",
+      "2025-01-02T08:02:48Z": "US",
+      "2025-01-03T08:02:48Z": "US",
+      "2025-01-04T08:02:48Z": "US",
+      "2025-01-05T08:02:48Z": "US",
+      "2025-01-06T08:02:48Z": "US",
+      "2025-01-07T08:02:48Z": "US",
+      "2025-01-08T08:02:48Z": "US"
+    },
+    "observed_updated_at": {
+      "2024-12-25T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-26T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-27T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-28T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-29T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-30T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2024-12-31T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2025-01-01T08:02:48Z": "2024-12-17T23:59:04.617292269Z",
+      "2025-01-02T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-03T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-04T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-05T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-06T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-07T08:02:48Z": "2025-01-02T00:28:13.492548584Z",
+      "2025-01-08T08:02:48Z": "2025-01-02T00:28:13.492548584Z"
+    }
+  },
+  "os_analysis": {
+    "ioc_data": {
+      "vendor": "Ubuntu",
+      "product": "Linux"
+    },
+    "observed_vendor": {
+      "2024-12-25T08:02:48Z": "Ubuntu",
+      "2024-12-26T08:02:48Z": "Ubuntu",
+      "2024-12-27T08:02:48Z": "Ubuntu",
+      "2024-12-28T08:02:48Z": "Ubuntu",
+      "2024-12-29T08:02:48Z": "Ubuntu",
+      "2024-12-30T08:02:48Z": "Ubuntu",
+      "2024-12-31T08:02:48Z": "Ubuntu",
+      "2025-01-01T08:02:48Z": "Ubuntu",
+      "2025-01-02T08:02:48Z": "Ubuntu",
+      "2025-01-03T08:02:48Z": "Ubuntu",
+      "2025-01-04T08:02:48Z": "Ubuntu",
+      "2025-01-05T08:02:48Z": "Ubuntu",
+      "2025-01-06T08:02:48Z": "Ubuntu",
+      "2025-01-07T08:02:48Z": "Ubuntu",
+      "2025-01-08T08:02:48Z": "Ubuntu"
+    },
+    "observed_product": {
+      "2024-12-25T08:02:48Z": "Linux",
+      "2024-12-26T08:02:48Z": "Linux",
+      "2024-12-27T08:02:48Z": "Linux",
+      "2024-12-28T08:02:48Z": "Linux",
+      "2024-12-29T08:02:48Z": "Linux",
+      "2024-12-30T08:02:48Z": "Linux",
+      "2024-12-31T08:02:48Z": "Linux",
+      "2025-01-01T08:02:48Z": "Linux",
+      "2025-01-02T08:02:48Z": "Linux",
+      "2025-01-03T08:02:48Z": "Linux",
+      "2025-01-04T08:02:48Z": "Linux",
+      "2025-01-05T08:02:48Z": "Linux",
+      "2025-01-06T08:02:48Z": "Linux",
+      "2025-01-07T08:02:48Z": "Linux",
+      "2025-01-08T08:02:48Z": "Linux"
+    }
+  },
+  "ssh_analysis": {
+    "ioc_data": [
+      {
+        "banner": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11",
+        "banner_hashes": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ],
+        "labels": [
+          "remote-access"
+        ],
+        "port": 22,
+        "version": "OpenSSH_8.2p1",
+        "comment": "Ubuntu-4ubuntu0.11",
+        "host_key_algorithm": "ecdsa-sha2-nistp256",
+        "server_host_key_fingerprint": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      }
+    ],
+    "observed_banners": {
+      "2024-12-25T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      }
+    },
+    "observed_banners_hashes": {
+      "2024-12-25T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": [
+          "sha256:2bf2033dbf501c6d1f063e64b737f30c2ab11dd1fb2e65a7dd4b2a88c71f23e5"
+        ]
+      }
+    },
+    "observed_labels": {
+      "2024-12-25T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": [
+          "remote-access"
+        ]
+      }
+    },
+    "observed_version": {
+      "2024-12-25T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": "OpenSSH_8.2p1"
+      }
+    },
+    "observed_comment": {
+      "2024-12-25T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": "Ubuntu-4ubuntu0.11"
+      }
+    },
+    "observed_host_key_algorithm": {
+      "2024-12-25T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": "ecdsa-sha2-nistp256"
+      }
+    },
+    "observed_server_host_key_fingerprint": {
+      "2024-12-25T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-26T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-27T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-28T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-29T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-30T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2024-12-31T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-01T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-02T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-03T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-04T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-05T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-06T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-07T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      },
+      "2025-01-08T08:02:48Z": {
+        "22": "9de1c2f1b5c52f1c4bd49fc3d09f6d8a7907cde76df06e3755eec6ed5decc63d"
+      }
+    }
+  },
+  "rdp_analysis": {
+    "ioc_data": [],
+    "observed_labels": {
+      "2024-12-25T08:02:48Z": {},
+      "2024-12-26T08:02:48Z": {},
+      "2024-12-27T08:02:48Z": {},
+      "2024-12-28T08:02:48Z": {},
+      "2024-12-29T08:02:48Z": {},
+      "2024-12-30T08:02:48Z": {},
+      "2024-12-31T08:02:48Z": {},
+      "2025-01-01T08:02:48Z": {},
+      "2025-01-02T08:02:48Z": {},
+      "2025-01-03T08:02:48Z": {},
+      "2025-01-04T08:02:48Z": {},
+      "2025-01-05T08:02:48Z": {},
+      "2025-01-06T08:02:48Z": {},
+      "2025-01-07T08:02:48Z": {},
+      "2025-01-08T08:02:48Z": {}
+    },
+    "observed_certificate": {
+      "2024-12-25T08:02:48Z": {},
+      "2024-12-26T08:02:48Z": {},
+      "2024-12-27T08:02:48Z": {},
+      "2024-12-28T08:02:48Z": {},
+      "2024-12-29T08:02:48Z": {},
+      "2024-12-30T08:02:48Z": {},
+      "2024-12-31T08:02:48Z": {},
+      "2025-01-01T08:02:48Z": {},
+      "2025-01-02T08:02:48Z": {},
+      "2025-01-03T08:02:48Z": {},
+      "2025-01-04T08:02:48Z": {},
+      "2025-01-05T08:02:48Z": {},
+      "2025-01-06T08:02:48Z": {},
+      "2025-01-07T08:02:48Z": {},
+      "2025-01-08T08:02:48Z": {}
+    }
+  },
+  "location_analysis": {
+    "ioc_data": {
+      "country": "United States",
+      "country_code": "US"
+    },
+    "observed_country": {
+      "2024-12-25T08:02:48Z": "United States",
+      "2024-12-26T08:02:48Z": "United States",
+      "2024-12-27T08:02:48Z": "United States",
+      "2024-12-28T08:02:48Z": "United States",
+      "2024-12-29T08:02:48Z": "United States",
+      "2024-12-30T08:02:48Z": "United States",
+      "2024-12-31T08:02:48Z": "United States",
+      "2025-01-01T08:02:48Z": "United States",
+      "2025-01-02T08:02:48Z": "United States",
+      "2025-01-03T08:02:48Z": "United States",
+      "2025-01-04T08:02:48Z": "United States",
+      "2025-01-05T08:02:48Z": "United States",
+      "2025-01-06T08:02:48Z": "United States",
+      "2025-01-07T08:02:48Z": "United States",
+      "2025-01-08T08:02:48Z": "United States"
+    },
+    "observed_country_code": {
+      "2024-12-25T08:02:48Z": "US",
+      "2024-12-26T08:02:48Z": "US",
+      "2024-12-27T08:02:48Z": "US",
+      "2024-12-28T08:02:48Z": "US",
+      "2024-12-29T08:02:48Z": "US",
+      "2024-12-30T08:02:48Z": "US",
+      "2024-12-31T08:02:48Z": "US",
+      "2025-01-01T08:02:48Z": "US",
+      "2025-01-02T08:02:48Z": "US",
+      "2025-01-03T08:02:48Z": "US",
+      "2025-01-04T08:02:48Z": "US",
+      "2025-01-05T08:02:48Z": "US",
+      "2025-01-06T08:02:48Z": "US",
+      "2025-01-07T08:02:48Z": "US",
+      "2025-01-08T08:02:48Z": "US"
+    }
+  },
+  "dns_analysis": {
+    "ioc_data": {
+      "names": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ]
+    },
+    "observed_names": {
+      "2024-12-25T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-26T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-27T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-28T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-29T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-30T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2024-12-31T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-01T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-02T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-03T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-04T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-05T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-06T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-07T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ],
+      "2025-01-08T08:02:48Z": [
+        "207.16.132.34.bc.googleusercontent.com"
+      ]
+    }
+  },
+  "labels_analysis": {
+    "ioc_data": [
+      "c2",
+      "blazor",
+      "jquery",
+      "d3",
+      "moment.js",
+      "twitter-typeahead.js",
+      "bootstrap",
+      "remote-access"
+    ],
+    "observed_labels": {
+      "2024-12-25T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-26T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-27T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-28T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-29T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-30T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2024-12-31T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-01T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-02T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-03T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-04T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-05T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-06T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-07T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ],
+      "2025-01-08T08:02:48Z": [
+        "blazor",
+        "bootstrap",
+        "c2",
+        "d3",
+        "jquery",
+        "moment.js",
+        "remote-access",
+        "twitter-typeahead.js"
+      ]
+    }
+  }
+}
